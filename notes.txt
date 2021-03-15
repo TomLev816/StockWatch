@@ -1,0 +1,20 @@
+
+SQL Tables
+- User
+	- username - unique
+	- userId - unique int
+
+- Security
+	- SecId
+	- Symbol
+	- Name
+	- Price
+
+- watchlist
+	- watchlistId
+	- userId
+	- watchlistName
+	
+- secWatchlist
+	- watchlistId
+	- SecId
